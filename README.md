@@ -467,7 +467,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/netflix-eda.git
+git clone https://github.com/Ranjan234/netflix-eda.git
 cd netflix-eda
 ```
 
@@ -566,8 +566,8 @@ Contributions are welcome! Please feel free to:
 
 **Your Name**
 - Email: soumyanalyst323@gmail.com.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/Ranjan234/Netflix-Data-Analysis)
+- LinkedIn: [SoumyaRanjanSahoo](https://www.linkedin.com/in/soumyaranjansahoo0/)
+- GitHub: [Ranjan234](https://github.com/Ranjan234)
 
 ---
 
