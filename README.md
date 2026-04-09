@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green?style=flat-square&logo=database)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
 
 ---
 
