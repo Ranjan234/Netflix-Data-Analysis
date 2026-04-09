@@ -447,10 +447,7 @@ netflix-eda/
 │   └── query_8_director_analysis.sql
 │
 ├── outputs/
-│   ├── Netflix_EDA_Analysis.pptx      # 16-slide presentation
 │   ├── Netflix_EDA_Analysis.docx      # Comprehensive report
-│   └── data_cleaning_summary.txt      # Cleaning log
-│
 └── images/
     ├── content_distribution.png
     ├── geographic_trends.png
@@ -554,19 +551,6 @@ print(top_countries)
 | **Acquisition Gap** | TV: 2yr, Movies: 5yr | Different strategies |
 | **Creator Diversity** | Max 2 titles/director | Portfolio approach |
 
----
-
-## 📝 Future Enhancements
-
-- [ ] Sentiment analysis on descriptions
-- [ ] Actor/cast network analysis
-- [ ] Predictive modeling for future content trends
-- [ ] Regional preference analysis
-- [ ] Genre performance correlation with release year
-- [ ] Director collaboration patterns
-- [ ] Interactive dashboard using Tableau/Power BI
-
----
 
 ## 🤝 Contributing
 
@@ -577,20 +561,13 @@ Contributions are welcome! Please feel free to:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 👨‍💻 Author
 
 **Your Name**
-- Email: your.email@example.com
+- Email: soumyanalyst323@gmail.com.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/Ranjan234/Netflix-Data-Analysis)
 
 ---
 
