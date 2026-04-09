@@ -406,14 +406,14 @@ ORDER BY title_count DESC;
 ## 🛠 Technologies Used
 
 ### Languages & Libraries
-- **Python 3.9+**
+- **Python 3.13.5**
   - `pandas` - Data manipulation & analysis
   - `numpy` - Numerical computing
   - `matplotlib` - Data visualization
   - `seaborn` - Statistical visualization
 
 ### Database & SQL
-- **SQL Server / T-SQL**
+- **SQL Server**
   - CROSS APPLY, STRING_SPLIT
   - GROUP BY, ORDER BY, WHERE clauses
   - Window functions (SUM OVER)
@@ -454,9 +454,6 @@ netflix-eda/
     ├── temporal_growth.png
     └── rating_analysis.png
 ```
-
----
-
 ## 🚀 How to Run
 
 ### Prerequisites
