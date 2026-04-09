@@ -2,7 +2,7 @@
 
 > A comprehensive statistical analysis of Netflix's content library using Python and SQL to uncover business intelligence patterns and strategic insights.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green?style=flat-square&logo=database)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=flat-square)
 
